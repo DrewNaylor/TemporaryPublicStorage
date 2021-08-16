@@ -1,1 +1,1 @@
-Placeholder readme since I forgot to check the box first.
+Placeholder readme since I forgot to check the box first. Not really sure if a license is required since it's just a readme and everything else goes into the releases, but I guess this readme can be under CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
